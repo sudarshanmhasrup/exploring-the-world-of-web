@@ -8,4 +8,4 @@ This project is organized by technology, with separate folders for HTML, CSS, an
 
 Structure:
 
-`html`/ - This folder contains all the HTML files I created while learning HTML. It includes a single `index.html` file that serves as a centralized entry point, linking to all other files within the folder.
+1. `html`/ - This folder contains all the HTML files I created while learning HTML. It includes a single `index.html` file that serves as a centralized entry point, linking to all other files within the folder.
