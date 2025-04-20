@@ -8,6 +8,6 @@ This project is organized by technology, with separate folders for HTML, CSS, an
 
 1. `html`/ - This folder contains all the HTML files I created while learning HTML. It includes a single `index.html` file that serves as a centralized entry point, linking to all other files within the folder.
 
-### Support me
+### Thank you
 
 Not saying this is the best repo out there for web concepts, but if you found it helpful or think I’ve done a decent job, just drop a star — that’d mean a lot!Thanks a lot for checking it out! 🙌
