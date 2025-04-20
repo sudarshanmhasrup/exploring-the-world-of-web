@@ -6,6 +6,4 @@ I love talking about the web—it's incredible how it has made software solution
 
 This project is organized by technology, with separate folders for HTML, CSS, and JavaScript. Each folder contains projects or examples related to that specific technology. Any additional folders either represent standalone projects or modules that are part of existing ones.
 
-Structure:
-
 1. `html`/ - This folder contains all the HTML files I created while learning HTML. It includes a single `index.html` file that serves as a centralized entry point, linking to all other files within the folder.
