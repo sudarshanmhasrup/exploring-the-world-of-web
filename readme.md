@@ -10,4 +10,4 @@ This project is organized by technology, with separate folders for HTML, CSS, an
 
 ### Thank you
 
-Not saying this is the best repo out there for web concepts, but if you found it helpful or think I’ve done a decent job, just drop a star — that’d mean a lot!Thanks a lot for checking it out! 🙌
+Not saying this is the best repo out there for web concepts, but if you found it helpful or think I’ve done a decent job, just drop a star — that’d mean a lot! Thanks a lot for checking it out! 🙌
